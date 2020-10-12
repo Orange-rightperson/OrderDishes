@@ -1,1 +1,3 @@
 运行此项目需要安装nodejs，安装后在项目文件夹下执行npm intall操作，等待安装完成后执行npm start
+本项目在电脑上正常观看需要在开发者模式下打开toggle device toolbar模式观看手机画面
+
